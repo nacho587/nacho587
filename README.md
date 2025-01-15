@@ -2,7 +2,8 @@
 <h1 align='center' > Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p align="center">
-    <img width="200" src="https://github.com/nacho587/blob/main/espacio.jpg">
+    <img width="200" src="https://github.com/nacho587/nacho587/tree/main/espacio.png>
+  
 </p>
 
 
