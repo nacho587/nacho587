@@ -15,8 +15,7 @@
 🚀 &nbsp;I completed an AI course from Stanford, covering supervised and unsupervised learning and neural networks.\
 ✍️ &nbsp;During my leisure time, I love exploring topics related to technology, engineering, and outer space.\
 ✉️ &nbsp;You can shoot me an email at <a href="mailto:ignaciomacri@outlook.com?subject=Hey%2C%20I%27ve%20seen%20you%20in%20GitHub&body=I%27m%20contacting%20you%20because...">Ignacio Macri</a>.
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/nacho587/nacho587/blob/main/resume.pdf) for more details about me. I'm open to feedback and suggestions!
-📄 &nbsp;Please have a look at my <a href="https://github.com/nacho587/nacho587/tree/main/resume.pdf" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my <a href="https://github.com/nacho587/nacho587/tree/main/Resume.pdf" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
 
 
 <h2> Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
