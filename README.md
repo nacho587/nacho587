@@ -3,8 +3,20 @@
 
 <p align="center">
     <img width="700px" height= "300px"src="https://github.com/nacho587/nacho587/blob/main/espacio.png" />
-  
 </p>
+
+<div size='20px'> Hi! My name is Ignacio Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<h2> About Me </h2>
+
+💡 &nbsp;I enjoy diving into new technologies and creating innovative software solutions.\
+🎓 &nbsp;I'm currently studying computer engineering at the Argentine Business University.\
+🚀 &nbsp;I completed an AI course from Stanford, covering supervised and unsupervised learning and neural networks.\
+✍️ &nbsp;During my leisure time, I love exploring topics related to technology, engineering, and outer space.\
+✉️ &nbsp;You can shoot me an email at IgnacioMacri@outlook.com.\
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/nacho587/nacho587/blob/main/resume.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my <a href="https://github.com/nacho587/nacho587/blob/main/resume.pdf" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
 
 
 <h2> Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -28,7 +40,6 @@
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/ignacio-macri/" target="blank"><img align="center" src="https://img.shields.io/badge/Ignacio Macri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;  
-    <a href="mailto:ignaciomacri@outlook.com?subject=Hey%2C%20I%27ve%20seen%20you%20in%20GitHub&body=I%27m%20contacting%20you%20because..."  target="blank"><img align="center" src="https://img.shields.io/badge/IgnacioMacri@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>    
-    &nbsp;&nbsp;&nbsp;      
+    <a href="mailto:ignaciomacri@outlook.com?subject=Hey%2C%20I%27ve%20seen%20you%20in%20GitHub&body=I%27m%20contacting%20you%20because..."  target="blank"><img align="center" src="https://img.shields.io/badge/IgnacioMacri@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;      
     <a href="https://www.github.com/nacho587" target="blank"><img align="center" src="https://img.shields.io/badge/Nacho-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
