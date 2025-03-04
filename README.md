@@ -31,23 +31,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
 
-  <!-- Project 1 -->
-  <div style="width: 45%; background-color: #f4f4f9; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3 style="font-size: 1.5em; color: #333;">Project 1 Title</h3>
-    <img src="https://github.com/your-username/your-repository-name/raw/main/project1-image.png" alt="Project 1" style="width: 100%; max-width: 300px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="color: #555; font-size: 1em; margin-top: 10px;">Short description of project 1.</p>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="width: 45%; background-color: #f4f4f9; padding: 20px; border-radius: 8px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3 style="font-size: 1.5em; color: #333;">Project 2 Title</h3>
-    <img src="https://github.com/your-username/your-repository-name/raw/main/project2-image.png" alt="Project 2" style="width: 100%; max-width: 300px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="color: #555; font-size: 1em; margin-top: 10px;">Short description of project 2.</p>
-  </div>
-
-</div>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
